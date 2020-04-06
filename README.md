@@ -3,4 +3,4 @@ This dataset is used in translating Kurdish texts to Kurdish Sign Language (KuSL
 
 The data is updated gradually.
 
-This data is discussed in a paper entitled "Towards Kurdish Text to Sign Translatio" (to appear).
+This data is discussed in a paper entitled "Towards Kurdish Text to Sign Translation" (to appear).
