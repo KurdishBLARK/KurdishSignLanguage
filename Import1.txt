@@ -1,0 +1,427 @@
+1	قسە	hamfinger23,hamextfingerui,hamextfingeril,hampalmd,hamtongue,hamfingerplay,hammoved,hamsmallmod			0	0	0	
+2	ڕستە	hamsymmpar,hampinch12open,hamfingerhookmod,hamextfingeru,hampalml,haminterlock,hamchest			0	0	0	
+3	ووشە	hampinch12,hamextfingeru,hampalml,hamshouldertop			0	0	0	
+4	ناو	hamfinger2,hamextfingerl,hampalml,hamshoulders,hammover,hamsmallmod,hammovel,hamsmallmod			0	0	0	
+5	ئەمە	hamfinger2,hamextfingerol,hampalml,hamchest			0	0	0	
+6	فرمان	hamfist,hamextfingero,hampalml,hamchest,hamcirclei,hamsmallmod			0	0	0	
+7	ئێرە	hamfinger2,hamextfingerd,hampalmd,hamchest			0	0	0	
+8	ئەوێ	hamfinger2,hamextfingerr,hampalml,hamshouldertop,hamlrbeside			0	0	0	
+9	ژێر	hamsymmlr,hamflathand,hamparbegin,hamextfingerl,hampalmd,hamplus,hamextfingero,hampalmd,hamparend,hamparbegin,hamchest,hamplus,hamstomach,hamparend			0	0	0	
+10	ئامراز	hamsymmlr,hamfinger2,hamfingerbendmod,hamparbegin,hamextfingerl,hampalmd,hamplus,hamextfingerr,hampalmu,hamparend,hamfingerpad,hamtouch			0	0	0	
+11	وە	hamfinger2,hamextfingeru,hampalmu,hamlrbeside,hamtongue,hamcircleo,hamsmallmod		[C08]	0	0	0	
+12	یان	hamfinger2,hamextfingero,hampalmd,hammover,hamarcu			0	0	0	
+13	سڵاو	hamflathand,hamextfingerui,hamextfingeril,hampalml,hamhead,hamlrat,hamclose,hamparbegin,hammover,hamshoulders,hamreplace,hampalmr,hamparend			0	0	0	
+14	چۆنی	hamflathand,hamextfingero,hampalmu,hamchest,hammovel,hamsmallmod,hammover,hamsmallmod,hamrepeatfromstart			0	0	0	
+15	باشم	hamfinger2,hamextfingeri,hampalmd,hamchest,hamparbegin,hamreplace,hamfist,hamthumboutmod,hamparend,hamparbegin,hamreplace,hamextfingeruo,hamextfingerol,hampalml,hamparend			0	0	0	
+16	وەڵام	hamfinger2,hamextfingerl,hampalml,hamtongue,hamcirclel,hamsmallmod			0	0	0	
+17	چەند	hamceeopen,hamextfingerui,hamextfingeril,hampalmr,hamchest,hammovedi			0	0	0	
+18	چۆن	hamflathand,hamextfingero,hampalmu,hamchest,hammovel,hamsmallmod,hammover,hamsmallmod,hamrepeatfromstart			0	0	0	
+19	پرسیار	hamfinger23,hamthumbacrossmod,hamextfingerui,hampalmd,hamshoulders,hamcircleo,hamsmallmod,hammoved,hamsmallmod			0	0	0	
+20	ڕەنگ	hamfinger2,hamextfingerl,hampalml,hamtongue,hammover,hamarcu,hamslow,hamchest,hamparbegin,hamreplace,hamfinger23,hamfingerplay,hamparend			0	0	0	
+21	تۆخ	hamsymmlr,hamflathand,hamextfingerl,hampalmu,hamshoulders,hammoved,hamslow			0	0	0	
+22	کاڵ	hamflathand,hamfingerbendmod,hamextfingero,hampalmu,hamchest,hamlrat,hammoveu,hamsmallmod,hammoved,hamsmallmod,hamrepeatfromstart			0	0	0	
+23	کات	hamparbegin,hamfinger2,hamextfingerdl,hampalmdl,hamplus,hamflathand,hamextfingerdr,hampalmd,hamparend,hamwristback			0	0	0	
+24	کاتژمێر	hamparbegin,hamfinger2,hamextfingerdl,hampalmdl,hamplus,hamflathand,hamextfingerdr,hampalmd,hamparend,hamwristback			0	0	0	
+25	خولەک	hamparbegin,hamfinger2,hamextfingerdl,hampalmdl,hamplus,hamflathand,hamextfingerr,hampalmd,hamparend,hamlowerarm,hammoveul,hamsmallmod,hamzigzag,hamtense			0	0	0	
+26	چرکە	hamparbegin,hamfinger2,hamextfingerdl,hampalmdl,hamplus,hamflathand,hamextfingerr,hampalmd,hamparend,hamlowerarm,hamcircleul			0	0	0	
+27	دەیەوێت	hamflathand,hamfingerbendmod,hamextfingero,hampalmu,hamchest,hammovei,hamparbegin,hamreplace,hamfist,hamparend			0	0	0	
+28	زوو	hamflathand,hamfingerstraightmod,hamextfingeru,hampalml,hamchin,hammover,hammovel,hamfast,hamrepeatfromstart			0	0	0	
+29	درەنگ	hamparbegin,hamfinger2,hamextfingerdl,hampalmdl,hamplus,hamflathand,hamextfingerdr,hampalmd,hamparend,hamwristback,hamparbegin,hamreplace,hamflathand,hamextfingero,hampalmu,hamparend,hamswinging			0	0	0	
+30	ڕۆژ	hamsymmlr,hamfingerstraightmod,hamflathand,hamextfingerd,hampalmdr,hamparbegin,hammoveu,hamslow,hamreplace,hamextfingeru,hampalml,hamparend			0	0	0	
+31	بەیانی	hamfinger2,hamthumbacrossmod,hamfingerbendmod,hamextfingeru,hampalml,hamshouldertop,hamlrat,hammoveu,hamslow			0	0	0	
+32	نەخێر	hamfinger2,hamextfingeru,hampalmd,hamshouldertop,hamlrat,hamswinging			0	0	0	
+33	دەزانم	hamfinger2,hamextfingerul,hampalmd,hamforehead,hamlrbeside,hamnodding,hamsmallmod			0	0	0	
+34	نازانم	hamflathand,hamextfingerui,hamextfingeril,hampalmd,hamunderchin,hamswinging			0	0	0	
+35	دەتوانم	hamsymmlr,hamfist,hamthumboutmod,hamextfingerol,hampalml,hamshoulders,hamparbegin,hammoved,hamreplace,hampalmu,hamparend			0	0	0	
+36	ناتوانم	hamsymmlr,hamflathand,hamfingerbendmod,hamextfingerl,hampalml,hamtouch,hamchest,hamparbegin,hammoved,hamclose,hamreplace,hamextfingeru,hampalmd,hamparend,hamparbegin,hamreplace,hamfinger2345,hamthumboutmod,hamparend			0	0	0	
+37	دەکەم	hamfinger23,hamextfingero,hampalml,hamfingerplay			0	0	0	
+38	ناکەم	hamfinger23,hamextfingeru,hampalmu,hamshoulders,hamlrat,hamswinging			0	0	0	
+39	ئازا	hamfist,hamextfingerl,hampalml,hamshoulders,hamlrat,hammoveu,hamsmallmod,hammoved,hamsmallmod,hamrepeatfromstart			0	0	0	
+40	ترسنۆک	hamfinger2345,hamthumboutmod,hamextfingero,hampalml,hamfingerplay,hamrepeatfromstart			0	0	0	
+41	جوان	hamflathand,hamthumboutmod,hamextfingerul,hampalmul,hamunderchin,hamparbegin,hammoved,hamreplace,hampinchall,hamfingerstraightmod,hamparend			0	0	0	
+42	ناشرین	hamfinger2,hamextfingero,hampalmu,hamchest,hamparbegin,hammoveu,hamreplace,hamextfingeru,hamparend			0	0	0	
+43	ڕاستگؤ	hamflathand,hamextfingeru,hampalml,hamnostrils,hamparbegin,hammoved,hamtense,hamreplace,hamextfingero,hamparend,hamchest,hamplus,hamfinger23,hamextfingerl,hampalml,hamtongue,hamswinging,hamsmallmod			0	0	0	
+44	درۆزن	hamfinger23,hamfingerbendmod,hamextfingeru,hampalml,hamunderchin			0	0	0	
+45	زیرەک	hamfinger2,hamextfingerl,hampalml,hamforehead,hamlrbeside,hamparbegin,hammover,hamsmallmod,hamreplace,hamextfingeru,hampalmd,hamparend,hamparbegin,hamreplace,hampinch12open,hamparend			0	0	0	
+46	تەمبەڵ	hamparbegin,hamfist,hamthumboutmod,hamextfingerl,hampalml,hamplus,hamflathand,hamextfingero,hampalmu,hamparend,hamchin,hamparbegin,hammovedr,hampalm,hamreplace,hamextfingero,hampalmd,hamparend			0	0	0	
+47	زانا	hamsymmlr,hamfinger2345,hammiddlefinger,hamfingerstraightmod,hamextfingeru,hampalml,hamhead,hamlrat,hamclose,hamparbegin,hammover,hamsmallmod,hamslow,hamreplace,hamflathand,hamparend			0	0	0	
+48	نەزان	hamfinger2,hamextfingerl,hampalml,hamforehead,hamlrbeside,hamparbegin,hammovedr,hamfast,hamteeth,hamreplace,hamextfingerul,hamparend,hamparbegin,hamreplace,hamflathand,hamparend,hammoved,hamsmallmod,hamfast			0	0	0	
+49	تێگەیشتوو	hamfinger2,hamfingerbendmod,hamextfingeru,hampalml,hamforehead,hamlrbeside,hamfingerplay			0	0	0	
+50	گێل	hamcee12,hamfingerstraightmod,hamindexfinger,hammiddlefinger,hamextfingeru,hampalml,hamforehead,hamlrbeside,hamparbegin,hammoved,hamreplace,hamextfingero,hampalmd,hamparend			0	0	0	
+51	چالاک	hamfinger2,hamextfingeru,hampalmu,hameyes,hamlrbeside,hammovel,hamsmallmod,hamrest,hamlrbeside,hameyes,hamrepeatfromstart			0	0	0	
+52	سست	hamflathand,hamextfingeru,hampalmu,hamshoulders,hamlrat,hamparbegin,hammoved,hamslow,hamreplace,hamextfingero,hamparend			0	0	0	
+53	قەڵەو	hamsymmlr,hamfist,hamextfingerl,hampalml		[C01]	0	0	0	
+54	لاواز	hamflathand,hamfingerbendmod,hamthumboutmod,hamextfingerul,hampalmul,hamunderchin		[C07]	0	0	0	
+55	بەهێز	hamfist,hamextfingeru,hampalmd,hamshoulders,hamlrat			0	0	0	
+56	بێ هێز	hamflathand,hamextfingeru,hampalmu,hamshoulders,hamlrat,hamparbegin,hammoved,hamslow,hamreplace,hamextfingero,hamparend			0	0	0	
+57	‌‌حەساوە	hamflathand,hamextfingerl,hampalml,hamshoulders,hammoved,hamsmallmod,hamparbegin,hamreplace,hamextfingerur,hampalmu,hamparend,hamshouldertop,hamlrbeside,hamparbegin,hammovedl,hamwavy,hamreplace,hamfinger23,hamparend			0	0	0	
+58	ماندوو	hamparbegin,hamflathand,hamextfingerdl,hampalmdl,hamplus,hamfist,hamextfingerr,hampalmd,hamparend,hamlowerarm,hammovel,hamsmallmod,hamwavy			0	0	0	
+59	چاوکراوە	hamfinger23spread,hamindexfinger,hampinky,hamextfingerl,hampalml,hameyes,hammovel,hamwavy,hamfast			0	0	0	
+60	شەرمن	hamflathand,hamextfingeru,hampalml,hamear,hamparbegin,hammover,hamsmallmod,hamarcu,hamtense,hamhead,hamlrat,hamparend			0	0	0	
+61	ئاژەڵ	hamsymmlr,hamflathand,hamfingerbendmod,hamextfingerl,hampalml,hamchest,hamfingerplay,hamparbegin,hammoveu,hamreplace,hamfinger23,hamfingerplay,hammovedr,hamsmallmod,hamplus,hamnomotion,hamparend			0	0	0	
+62	شیردەر	hamsymmlr,hamflathand,hamfingerbendmod,hamextfingerl,hampalml,hamchest,hamfingerplay,hamparbegin,hammoveu,hamreplace,hamfinger23,hamfingerplay,hammovedr,hamsmallmod,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hamfist,hamparend,hammoveu,hamsmallmod,hammoved,hamsmallmod,hamrepeatfromstart			0	0	0	
+63	گیانلەبەری مالێ	hamsymmlr,hamflathand,hamfingerbendmod,hamextfingerl,hampalml,hamchest,hamfingerplay,hamparbegin,hamreplace,hamflathand,hamextfingerl,hampalmu,hamplus,hamreplace,hamflathand,hamfingerbendmod,hamextfingerr,hampalmd,haminterlock,hamparend			0	0	0	
+64	مەڕ	hamflathand,hamfingerbendmod,hamextfingerd,hampalmd,hamhead,hamlrat			0	0	0	
+65	بەرخ	hamflathand,hamfingerbendmod,hamextfingerd,hampalmd,hamhead,hamlrat,hamparbegin,hammovedl,hamslow,hamshoulders,hamlrbeside,hamreplace,hamflathand,hamextfingerr,hampalmd,hamparend			0	0	0	
+66	ڕێزمان	hamsymmlr,hamfinger2,hamthumboutmod,hamextfingerl,hampalml,hamtouch,hammover,hamzigzag			0	0	0	
+67	بزن	hamfinger2,hamthumbacrossmod,hamfingerbendmod,hamextfingeru,hampalml,hamunderchin,hammoved,hamsmallmod			0	0	0	
+68	گامێش	hamsymmlr,hamfinger23spread,hamthumbacrossmod,hamindexfinger,hampinky,hamextfingerul,hampalmdr,hamearlobe,hammoveur,hamarcd,hamtense			0	0	0	
+69	مانگا	hamsymmlr,hamfinger23spread,hamthumbacrossmod,hamindexfinger,hampinky,hamextfingerul,hampalmdr,hamearlobe,hamparbegin,hamreplace,hamfist,hamparend,hamparbegin,hammoved,hamreplace,hamextfingerl,hampalml,hamparend,hammoved,hammoveu,hamrepeatfromstart			0	0	0	
+70	گا	hamsymmlr,hamfinger23spread,hamthumbacrossmod,hamindexfinger,hampinky,hamextfingerul,hampalmdr,hamearlobe,hamparbegin,hammoved,hamchest,hamreplace,hamfinger2345,hamfingerbendmod,hamparend,hamparbegin,hamreplace,hamparbegin,hamextfingeruo,hamextfingeror,hampalmd,hamplus,hamextfingeruo,hamextfingeror,hampalmd,hamparend,hamparend,hamspace,hammovel,hamsmallmod,hammover,hamsmallmod,hamrepeatfromstartseveral			0	0	0	
+71	کەر	hamsymmlr,hamfinger2,hamextfingeru,hampalml,hamhead,hamnodding,hamsmallmod			0	0	0	
+72	ئەسپ	hamsymmlr,hamfist,hamextfingero,hampalmd,hammoveo,hamfast,hamnodding,hammovei,hamfast,hamnodding			0	0	0	
+73	ئێستر	hamsymmlr,hamparbegin,hamfinger23spread,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerdl,hampalmul,hamplus,hamextfingerr,hampalmr,hamparend,hamfingermidjoint,hamtouch,hamparbegin,hamreplace,hamflathand,hammoveul,hamlargemod,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hamextfingerul,hampalmdl,hammovedr,hamzigzag,hamfast,hamplus,hamnomotion,hamparend			0	0	0	
+74	ووشتر	hamparbegin,hamfist,hamplus,hamflathand,hamparend,hamparbegin,hamextfingeru,hampalmd,hamplus,hamextfingerr,hampalmu,hamparend,hamparbegin,hamshouldertop,hamlrat,hamplus,hamelbowinside,hamparend,hamnodding			0	0	0	
+75	سەگ	hamceeall,hamextfingeru,hampalml,hamchest,hamparbegin,hamreplace,hampinchall,hamparend,hammover			0	0	0	
+76	تاژی	hamceeall,hamextfingeru,hampalmr,hamshoulders,hamlrbeside,hamparbegin,hamreplace,hampinchall,hamrepeatfromstartseveral,hamparend		[C07]	0	0	0	
+77	کەروێشک	hamsymmlr,hamparbegin,hamfinger23spread,hamplus,hamfist,hamparend,hamparbegin,hamextfingeru,hampalmd,hamplus,hamextfingerr,hampalmr,hamparend,hampalm,hamtouch,hamswinging			0	0	0	
+78	بەراز	hamsymmlr,hamparbegin,hamfist,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerl,hampalmd,hamplus,hamextfingerr,hampalmr,hamparend,hamparbegin,hamteeth,hamplus,hampalm,hamparend,hamparbegin,hamnomotion,hamplus,hamcircleo,hamsmallmod,hamparend			0	0	0	
+79	گیانلەبەری کێوی	hamsymmlr,hamflathand,hamfingerbendmod,hamextfingerl,hampalml,hamchest,hamfingerplay,hamfast,hamparbegin,hammoveu,hamreplace,hamextfingerul,hampalml,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hamfinger2,hammovedr,hamsmallmod,hamwavy,hamfast,hamplus,hamnomotion,hamparend			0	0	0	
+80	مشک	hamfinger23,hamextfingero,hampalml,hammoved,hamzigzag,hamfast,hamfingerplay			0	0	0	
+81	جورج	hamfinger2345,hamthumboutmod,hamfingerbendmod,hamextfingerui,hampalmul,hammoveol			0	0	0	
+82	سمۆرە	hamsymmlr,hamparbegin,hamfinger2345,hamthumboutmod,hamplus,hamflathand,hamparend,hamextfingeru,hampalmu,hamparbegin,hamshouldertop,hamlrat,hamplus,hamlowerarm,hamparend,hamparbegin,hamnomotion,hamplus,hammoved,hammoveu,hamparend			0	0	0	
+83	سەوزە	hamsymmlr,hamparbegin,hamfinger2345,hamthumboutmod,hamplus,hamflathand,hamparend,hamextfingeru,hampalmu,hamparbegin,hamshouldertop,hamlrat,hamplus,hamlowerarm,hamparend,hamparbegin,hamfingerplay,hammovel,hamlargemod,hamplus,hamnomotion,hamparend			0	0	0	
+84	تەماتە	hamfinger2,hamextfingerl,hampalml,hamtongue,hammover,hamsmallmod,hamfast,hamparbegin,hamreplace,hamfinger2345,hamthumboutmod,hamfingerbendmod,hamparend,hamparbegin,hamreplace,hamextfingeror,hampalmul,hamparend		[D01]	0	0	0	
+85	کودی	hamparbegin,hamfinger2,hamplus,hamfinger23,hamparend,hamparbegin,hamextfingerl,hampalml,hamplus,hamextfingero,hampalmd,hamparend,hamparbegin,hamfingermidjoint,hamlrbeside,hamplus,hamchest,hamparend,hammover,hamsmallmod,hammovel,hamsmallmod,hamrepeatfromstartseveral			0	0	0	
+86	خیار	hamsymmlr,hamfinger2,hamparbegin,hamextfingerl,hampalml,hamplus,hamextfingero,hampalmr,hamparend,hamparbegin,hamfingermidjoint,hamlrbeside,hamplus,hamchest,hamparend,hamparbegin,hammoveo,hamsmallmod,hammovei,hamsmallmod,hamrepeatfromstartseveral,hamplus,hamnomotion,hamparend			0	0	0	
+87	بیبەر	hamfinger2,hamextfingeru,hampalmu,hamteeth,hamdoublehooked,hamparbegin,hammoved,hamtense,hamreplace,hamextfingerd,hampalmd,hamparend,hamchest			0	0	0	
+88	بامیە	hamfinger23,hamextfingerl,hampalml,hamforehead			0	0	0	
+89	نۆک	hamsymmlr,hamfinger23,hamparbegin,hamextfingerl,hampalml,hamplus,hamextfingero,hampalmd,hamparend,hamparbegin,hamfingermidjoint,hamlrbeside,hamplus,hamchest,hamparend			0	0	0	
+90	ماش	hamsymmlr,hamflathand,hamfingerbendmod,hamextfingero,hampalmul,hamlrbeside,hampalm,hamtouch,hamparbegin,hammoveu,hamplus,hamnomotion,hamparend			0	0	0	
+91	نیسک	hamfist,hamextfingeril,hampalmdr,hamneck,hamparbegin,hamreplace,hamextfingeru,hampalmd,hamparend,hamparbegin,hamreplace,hamfinger2,hamparend			0	0	0	
+92	هێل	hampinch12,hamfingerstraightmod,hamextfingeru,hampalmul,hamnose,hamparbegin,hammoved,hamreplace,hamextfingero,hampalmd,hamparend,hamcircleo,hamsmallmod,hamrepeatfromstart			0	0	0	
+93	کونجی	hamparbegin,hamflathand,hamfingerbendmod,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerd,hampalmd,hamplus,hamextfingerr,hampalmu,hamparend,hamshoulders,hamswinging,hamfast,hamrepeatfromstart			0	0	0	
+94	خواردن	hamflathand,hamthumbacrossmod,hamfingerbendmod,hamextfingeru,hampalmu,hamneck,hammoved,hamsmallmod,hammoveu,hamsmallmod,hamrepeatfromstart		[L07]	0	0	0	
+95	برژاندن	hamsymmlr,hamfinger2345,hamthumbacrossmod,hamextfingerdo,hampalmd,hamparbegin,hammoved,hamsmallmod,hamhalt,hamreplace,hampalmu,hamparend,hamparbegin,hamreplace,hamextfingerd,hampalml,hamnodding,hamplus,hamnomotion,hamparend			0	0	0	
+96	کوڵاو	hamsymmlr,hamlargemod,hamfingerstraightmod,hamfinger2345,hamthumboutmod,hamfingerbendmod,hamextfingerl,hampalmul,hammoveu,hamsmallmod,hamrepeatfromstartseveral			0	0	0	
+97	بەهارات	hampinch12,hamfingerstraightmod,hamindexfinger,hammiddlefinger,hamextfingeru,hampalmu,hamnose,hammovedr,hamchest,hamlrat,hamparbegin,hamreplace,hamextfingerl,hampalml,hamparend,hamparbegin,hammover,hamsmallmod,hamslow,hamlrat,hamchest,hamreplace,hamfinger23,hamparend,hamnodding			0	0	0	
+98	خوێ	hamsymmlr,hamparbegin,hamfist,hamplus,hamfist,hamthumboutmod,hamparend,hamparbegin,hamextfingerl,hampalml,hamplus,hamextfingeror,hampalmdl,hamparend,hamparbegin,hamchest,hamplus,hamlrat,hamshoulders,hamparend,hamparbegin,hamnomotion,hamplus,hammoveul,hamsmallmod,hammovedr,hamsmallmod,hamfast,hamrepeatfromstartseveral,hamparend			0	0	0	
+99	سماق	hamflathand,hamfingerbendmod,hamextfingerl,hampalml,hamteeth			0	0	0	
+100	لیمۆ بەسرە	hamparbegin,hamfinger2,hamplus,hamcee12,hamparend,hamparbegin,hamextfingerdl,hampalmul,hamplus,hamextfingerr,hampalmr,hamparend,hamshoulders,hamlrat,hamcircleur,hamsmallmod,hamrepeatfromstart,hamparbegin,hammoveu,hamteeth,hamreplace,hamextfingeru,hampalmu,hamparend,hamparbegin,hamreplace,hamfist,hamparend			0	0	0	
+101	لیمۆن دوزی	hamflathand,hamfingerbendmod,hamextfingerl,hampalml,hamteeth,hamparbegin,hamreplace,hamfinger2,hamthumboutmod,hamparend,hamlrbeside,hamunderchin,hammoveu,hamsmallmod		[L23]	0	0	0	
+102	ڕۆن	hamsymmlr,hamflathand,hamparbegin,hamextfingerl,hampalmu,hamplus,hamextfingeru,hampalmd,hamparend,hamparbegin,hamchest,hamplus,hampinkyside,hamparend,hammovel,hamsmallmod,hammover,hamsmallmod,hamrepeatfromstartseveral			0	0	0	
+103	سپیایی	hamsymmlr,hamfingerstraightmod,hamlargemod,hamfist,hamextfingerl,hampalml,hammoveu,hamsmallmod,hammoved,hamsmallmod,hamrepeatfromstartseveral,hamparbegin,hammoveu,hamreplace,hamfinger2,hamthumboutmod,hamplus,hamnomotion,hamparend,hamparbegin,hamlrbeside,hamunderchin,hamplus,hamunderchin,hamparend			0	0	0	
+104	ماست	hamfinger2,hamthumboutmod,hampinky,hamextfingerl,hampalml,hammoveu,hamslow,hamneck			0	0	0	
+105	کەرە	hamparbegin,hamfinger23,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerdl,hampalmdl,hamplus,hamextfingero,hampalmu,hamparend,hamthumbside,hamnodding,hamsmallmod			0	0	0	
+106	پەنیر	hamparbegin,hamflathand,hamplus,hamfinger2345,hamthumboutmod,hamfingerbendmod,hamparend,hamparbegin,hamextfingero,hampalml,hamplus,hamextfingerr,hampalmr,hamparend,hamparbegin,hamchest,hamplus,hamlrat,hamchest,hamparend,hammoveu,hamsmallmod,hammoved,hamsmallmod,hamrepeatfromstartseveral			0	0	0	
+107	ژاژی	hamsymmlr,hamfinger2345,hamthumboutmod,hamextfingero,hampalmul,hamparbegin,hammovei,hamsmallmod,hamreplace,hamfist,hamparend			0	0	0	
+108	قەیماخ	hamparbegin,hamfinger23,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerol,hampalmdl,hamplus,hamextfingero,hampalmu,hamparend,hamfingerpad,hamswinging,hamsmallmod			0	0	0	
+109	شەکر	hamflathand,hamextfingerl,hampalml,hamtongue		[T16]	0	0	0	
+110	هەنگوین	hamparbegin,hampinch12,hamfingerstraightmod,hamplus,hamflathand,hamparend,hamparbegin,hamextfingeru,hampalml,hamplus,hamextfingerr,hampalmu,hamparend,hamhead,hamlrat,hamcirclei,hamsmallmod,hamrepeatfromstart,hamparbegin,hammoved,hamreplace,hamfinger2,hamparend,hamparbegin,hamreplace,hamextfingerol,hampalmdl,hamparend,hampalm,hammoveu,hamteeth			0	0	0	
+111	دؤشاو	hamparbegin,hamfinger2,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerol,hampalmdl,hamplus,hamextfingero,hampalmu,hamparend,hampalm,hamswinging,hamsmallmod,hamparbegin,hammoveur,hamreplace,hamextfingeru,hampalmu,hamparend,hamteeth			0	0	0	
+112	ئارد	hamsymmlr,hamflathand,hamparbegin,hamextfingero,hampalmd,hamplus,hamextfingero,hampalmu,hamparend,hampalm,hamtouch,hamtwisting,hamparbegin,hamreplace,hampinchall,hamparend,hamparbegin,hamreplace,hamextfingeru,hampalmu,hamparend,hamclose,hamchest			0	0	0	
+113	هەویر	hamsymmpar,hamfist,hamextfingero,hampalmdl,hamtwisting,hamsmallmod,hamfast,hamrepeatfromstart			0	0	0	
+114	نان	hamsymmlr,hamcee12,hamextfingero,hampalml,hamparbegin,hamreplace,hamflathand,hamparend,hamparbegin,hamreplace,hamextfingero,hampalmd,hamplus,hamreplace,hamextfingero,hampalmu,hamparend,hammovel,hamsmallmod,hampalm,hamtouch,hamtwisting			0	0	0	
+115	ڤیدیۆ	hamflathand,hamextfingerl,hampalml,hamchest,hamparbegin,hammoved,hamreplace,hampalmu,hamparend			0	0	0	
+116	کاسێتی ڤیدیۆ	hamparbegin,hamflathand,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerl,hampalmr,hamplus,hamextfingero,hampalmu,hamparend,hampalm			0	0	0	
+117	گوڵدان	hamparbegin,hamfist,hamplus,hamflathand,hamfingerbendmod,hamparend,hamparbegin,hamextfingeru,hampalmul,hamplus,hamextfingerr,hampalmr,hamparend,hamnostrils,hamparbegin,hammoved,hamtense,hamshoulders,hamreplace,hamextfingerl,hampalml,hamparend			0	0	0	
+118	تابلۆ	hamfinger23,hamextfingeru,hampalmul,hamhead,hamlrbeside,hammovedl,hamzigzag			0	0	0	
+119	مەتبەخ	hamsymmlr,hamflathand,hamextfingero,hampalmdl,hammovedr,hamarcu,hamslow,hamparbegin,hamreplace,hamextfingerl,hampalmul,hamparend,hamparbegin,hamreplace,hamfinger2345,hamthumboutmod,hamfingerbendmod,hamparend,hammoveu,hamsmallmod,hammoved,hamsmallmod,hamfast,hamrepeatfromstartseveral			0	0	0	
+120	تەباخ	hamsymmlr,hamflathand,hamfingerbendmod,hamextfingeru,hampalmd,hamcircleor,hamsmallmod,hamrepeatfromstart			0	0	0	
+121	سنکی قاپ	hamsymmlr,hamflathand,hamfingerbendmod,hamextfingero,hampalmd,hamcircleu,hamsmallmod,hamrepeatfromstart,hamparbegin,hammoveur,hamfast,hamneck,hamreplace,hamextfingeru,hampalmu,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hamfinger2,hamplus,hamnomotion,hamparend			0	0	0	
+122	بتڵی غاز	hamsymmlr,hamflathand,hamfingerbendmod,hamextfingerl,hampalmu,hamparbegin,hammoveu,hamsmallmod,hamreplace,hamfist,hamparend			0	0	0	
+123	فڕن	hamsymmlr,hamflathand,hamextfingerdo,hampalmu,hamparbegin,hammoved,hamsmallmod,hamreplace,hamflathand,hamfingerbendmod,hamparend			0	0	0	
+124	تاوە	hamfist,hamextfingerdo,hampalml,hammoveu,hamsmallmod,hammoved,hamsmallmod,hamrepeatfromstartseveral			0	0	0	
+125	کتلی	hamfist,hammiddlefinger,hambetween,hamringfinger,hamextfingerl,hampalmdl,hamshoulders,hamlrat,hammoved,hamarcl,hamlargemod,hamslow			0	0	0	
+126	قۆری	hamfist,hammiddlefinger,hambetween,hamringfinger,hamextfingerl,hampalmdl,hamchest,hamlrat,hammoved,hamarcl,hamlargemod,hamslow			0	0	0	
+127	سەماوەر	hamfist,hammiddlefinger,hambetween,hamringfinger,hamextfingerl,hampalmd,hamshoulders,hamlrat,hammovel,hamsmallmod,hamarcl,hamhalt,hamslow,hamparbegin,hammoveu,hamreplace,hamextfingerl,hampalml,hamparend			0	0	0	
+128	جزوە	hamparbegin,hamfist,hamindexfinger,hambetween,hammiddlefinger,hamplus,hamfinger23spread,hamfingerstraightmod,hamparend,hamparbegin,hamextfingerl,hampalmdl,hamplus,hamextfingero,hampalmu,hamparend,hamparbegin,hamshoulders,hamlrat,hamplus,hamstomach,hamparend,hammovedl,hamarcu,hamtense			0	0	0	
+129	مەنجەڵ	hamsymmlr,hamcee12,hamextfingero,hampalml,hamparbegin,hammoveur,hamshoulders,hamreplace,hamextfingerd,hampalmd,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hamfinger2345,hamfingerplay,hamplus,hamnomotion,hamparend			0	0	0	
+130	کەوگیر	hamparbegin,hamflathand,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerd,hampalmd,hamplus,hamextfingero,hampalmu,hamparend,hampalm,hamparbegin,hammoveu,hamreplace,hamextfingerl,hampalmd,hamparend,hamparbegin,hamreplace,hamflathand,hamfingerbendmod,hamswinging,hamparend			0	0	0	
+131	چەمچە	hamfist,hammiddlefinger,hambetween,hamringfinger,hamextfingerul,hampalmdl,hammovel,hamsmallmod			0	0	0	
+132	قاپ	hamsymmlr,hamcee12,hamextfingero,hampalml,hammoved,hamsmallmod			0	0	0	
+133	سێنی	hamsymmlr,hamfist,hamextfingero,hampalml			0	0	0	
+134	بەرداخ	hamcee12,hamextfingeru,hampalmd,hamchest,hamlrbeside			0	0	0	
+135	پیالە	hamcee12,hamextfingeru,hampalmd,hamchest,hamparbegin,hamreplace,hamextfingerl,hamparend,hamparbegin,hamreplace,hampinch12open,hamparend,hamcircleo,hamsmallmod			0	0	0	
+136	فنجان	hamfist,hammiddlefinger,hambetween,hamringfinger,hamextfingerul,hampalmdl,hamneck,hamparbegin,hammoveu,hamteeth,hamreplace,hamextfingeru,hamparend			0	0	0	
+137	جام	hamsymmlr,hamcee12,hamextfingero,hampalml,hamparbegin,hammoveu,hamneck,hamclose,hamreplace,hamextfingerul,hamparend,hamparbegin,hamreplace,hamfinger2,hamparend		[L04]	0	0	0	
+138	ترمز	hamfinger23,hamthumboutmod,hamextfingerd,hampalmd,hamchest,hammoveo,hamslow			0	0	0	
+139	هاون	hamparbegin,hamfist,hamplus,hamcee12,hamparend,hamparbegin,hamextfingerl,hampalml,hamplus,hamextfingerr,hampalmr,hamparend,hamshoulders,hammoved,hamsmallmod,hammoveu,hamsmallmod,hamrepeatfromstartseveral			0	0	0	
+140	تەبلەی جگەرە	hamparbegin,hamfinger2,hamplus,hamcee12,hamparend,hamparbegin,hamextfingerl,hampalml,hamplus,hamextfingerol,hampalmr,hamparend,hammoved,hamsmallmod,hamlrbeside,hamthumbball,hamswinging,hamsmallmod			0	0	0	
+141	پارزونگ	hamparbegin,hamflathand,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerd,hampalmd,hamplus,hamextfingerr,hampalmu,hamparend,hampalm,hamfingerplay			0	0	0	
+142	خەڵاتە	hampinch12,hamfingerstraightmod,hamextfingerl,hampalmd,hamcircleor,hamsmallmod,hamrepeatfromstart,hamparbegin,hammover,hamreplace,hamextfingerr,hamparend,hamparbegin,hamreplace,hamfinger23,hamparend			0	0	0	
+143	دۆلکە	hamfist,hammiddlefinger,hambetween,hamringfinger,hamextfingerl,hampalml,hammovedl,hamarcu			0	0	0	
+144	عەسارە	hamparbegin,hamfinger2,hamplus,hamfist,hamparend,hamparbegin,hamextfingeru,hampalmu,hamplus,hamextfingerr,hampalmr,hamparend,hamparbegin,hamchest,hamplus,hamshouldertop,hamparend,hamcircleor,hamsmallmod,hamrepeatfromstartseveral			0	0	0	
+145	خێزان	hamfinger2345,hamextfingero,hampalmdl,hamcircleir,hamsmallmod,hamrepeatfromstart			0	0	0	
+146	باوک	hamflathand,hamfingerstraightmod,hamextfingeru,hampalml,hamunderchin			0	0	0	
+147	دایک	hamfinger23,hamextfingeru,hampalml,hamear,hammovedr,hamchin			0	0	0	
+148	برا	hamfinger23,hamextfingero,hampalmd,hamfingerplay			0	0	0	
+149	خوشک	hamfinger2,hamextfingeru,hampalml,hamnostrils,hammoved,hamchest,hamparbegin,hamreplace,hamextfingero,hampalmd,hamparend,hamparbegin,hamreplace,hamfinger23,hamfingerplay,hamparend			0	0	0	
+150	با پیرە	hamfist,hamextfingerl,hampalml,hamunderchin			0	0	0	
+151	داپیرە	hamfist,hamextfingerl,hampalml,hamunderchin,hamparbegin,hamreplace,hamextfingeru,hampalml,hamparend,hamparbegin,hamreplace,hamfinger23,hamparend,hamear,hammovedr,hamchin			0	0	0	
+152	مڕۆڤ	hamfinger2,hamfingerbendmod,hamextfingerl,hampalmd,hamcheek,hamlrat			0	0	0	
+153	لەش	hamfinger23,hamextfingerl,hampalml,hamforehead,hamlrbeside,hammoved,hamslow,hamshouldertop			0	0	0	
+154	سەر	hamfinger2,hamfingerbendmod,hamextfingerl,hampalmd,hamforehead,hamlrbeside,hamnodding,hamsmallmod			0	0	0	
+155	قژ	hampinch12,hamfingerstraightmod,hamextfingeru,hampalml,hamforehead,hamlrbeside			0	0	0	
+156	سمێل	hampinch12,hamfingerstraightmod,hamextfingeru,hampalml,hamtongue			0	0	0	
+157	ڕوو	hamfinger2,hamextfingerul,hampalmul,hamchin,hamcirclei			0	0	0	
+158	نیوچەوان	hamfinger2,hamextfingerul,hampalmul,hamforehead,hamlrbeside,hamcirclei,hamlrbeside,hamforehead			0	0	0	
+159	گوێ	hampinch12,hamfingerstraightmod,hamextfingeru,hampalml,hamear			0	0	0	
+160	چاو	hamcee12,hamfingerstraightmod,hamextfingeru,hampalml,hameyes,hamparbegin,hammover,hamsmallmod,hamslow,hamreplace,hampinch12,hamfingerstraightmod,hamparend			0	0	0	
+161	برۆ	hamcee12,hamfingerstraightmod,hamextfingeru,hampalml,hameyebrows,hamparbegin,hammover,hamsmallmod,hamslow,hamreplace,hampinch12,hamfingerstraightmod,hamparend			0	0	0	
+162	خاوێنی	hamfinger23,hamthumboutmod,hamextfingerui,hampalmul,hamshoulders,hamlrat,hammoved			0	0	0	
+163	پیسی	hamfist,hamextfingeru,hampalmul,hamshoulders,hamlrat,hamparbegin,hammovedl,hamreplace,hamextfingerdl,hampalmul,hamparend,hamparbegin,hamreplace,hamfinger23spread,hamparend		[L29]	0	0	0	
+164	خۆشوشتن	hamfist,hamextfingerl,hampalml,hamupperarm			0	0	0	
+165	شوشتن	hamsymmlr,hamfist,hamparbegin,hamextfingero,hampalmd,hamplus,hamextfingero,hampalmu,hamparend,hampalm,hamtouch,hamtwisting			0	0	0	
+166	ددان شوشتن	hamfinger2,hamextfingerl,hampalml,hamtongue,hamswinging,hamsmallmod		[L15]	0	0	0	
+167	دەموچاو شوشتن	hamsymmlr,hamflathand,hamextfingeru,hampalmu,hamcheek,hammoveu,hamsmallmod,hamear,hamlrat,hamclose			0	0	0	
+168	تایت	hamparbegin,hamfist,hamplus,hamflathand,hamfingerbendmod,hamparend,hamparbegin,hamextfingeru,hampalmd,hamplus,hamextfingero,hampalmur,hamparend,hamparbegin,hamshoulders,hamlrat,hamplus,hamstomach,hamparend,hammovedl,hamsmallmod,hammoveur,hamsmallmod,hamrepeatfromstartseveral			0	0	0	
+169	شامپۆ	hamparbegin,hamflathand,hamplus,hamflathand,hamfingerbendmod,hamparend,hamparbegin,hamextfingeru,hampalmd,hamplus,hamextfingerr,hampalmr,hamparend,hamparbegin,hamshoulders,hamlrat,hamplus,hamwristback,hamparend,hamparbegin,hammoveu,hamheadtop,hamlrat,hamreplace,hamextfingerul,hamparend,hamcircleil,hamsmallmod,hamrepeatfromstart			0	0	0	
+170	فڵچەی ددان	hamparbegin,hamcee12,hamplus,hamfinger2,hamparend,hamparbegin,hamextfingerol,hampalml,hamplus,hamextfingero,hampalmd,hamparend,hamfingertip,hamparbegin,hammoveu,hamtongue,hamreplace,hamfinger2,hamparend,hamparbegin,hamreplace,hamextfingerl,hampalml,hamparend,hammoveu,hamsmallmod,hammoved,hamsmallmod,hamrepeatfromstart		[L15]	0	0	0	
+171	مەعجونی ددان	hamparbegin,hampinch12,hamplus,hamfinger2,hamparend,hamparbegin,hamextfingerl,hampalmd,hamplus,hamextfingerr,hampalmr,hamparend,hamfingertip,hamclose,hammovedr,hamsmallmod,hamarcu			0	0	0	
+172	مەعجونی تاشین	hamparbegin,hampinch12,hamplus,hamfinger2345,hamthumboutmod,hamfingerbendmod,hamparend,hamparbegin,hamextfingerl,hampalmd,hamplus,hamextfingeror,hampalmu,hamparend,hamfingerpad,hammover,hamsmallmod,hamarcu,hamparbegin,hammoveur,hamunderchin,hamreplace,hamfinger2345,hamfingerbendmod,hamparend,hamparbegin,hamreplace,hamextfingerur,hampalmur,hamparend,hamfingerplay			0	0	0	
+173	مەکینەی تاشین	hamsymmlr,hamfinger2,hamparbegin,hamextfingeru,hampalmd,hamplus,hamextfingerr,hampalmr,hamparend,hamfingertip,hamtouch			0	0	0	
+174	مەکینەی تاشینی کارەبایی	hamfist,hamextfingeru,hampalmdl,hamear,hammovedr,hamsmallmod,hamchin,hammoveur,hamsmallmod,hamrepeatfromstart		[C04]	0	0	0	
+175	گوێزان	hamparbegin,hamcee12,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerd,hampalml,hamplus,hamextfingero,hampalmd,hamparend,hamhandback,hamlrbeside,hammovei,hamsmallmod			0	0	0	
+176	کلینس	hamsymmlr,hamflathand,hamextfingeru,hampalml,hamchin,hamtouch,hammoved,hamsmallmod,hammoveu,hamsmallmod,hamclose			0	0	0	
+177	دەستەسڕ	hamsymmlr,hamflathand,hamfingerbendmod,hamextfingeru,hampalml,hamneck,hambetween,hamchin,hammovedl,hamsmallmod,hamslow			0	0	0	
+178	جل و بەرگ	hamsymmlr,hampinch12open,hamextfingeru,hampalml,hamshoulders,hamparbegin,hammover,hamchest,hamlrat,hamreplace,hamfinger23,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hamextfingerl,hampalml,hamplus,hamnomotion,hamparend,hamparbegin,hammovel,hamfingerplay,hamplus,hamnomotion,hamparend			0	0	0	
+179	چاکەت	hamsymmlr,hamfingerstraightmod,hamfist,hamextfingerl,hampalml,hamshouldertop,hammovel,hamsmallmod,hamarcu			0	0	0	
+180	بۆینباغ	hamsymmlr,hamceeall,hamextfingerl,hampalml,hamparbegin,hamunderchin,hamplus,hamshoulders,hamtouch,hamparend,hamparbegin,hammoveu,hamsmallmod,hamchin,hamplus,hamreplace,hamnondominant,hamparend,hamfingerplay			0	0	0	
+181	پانتۆڵ	hamsymmlr,hamfinger23,hamextfingerdo,hampalmdl,hambelowstomach,hammoveu,hamstomach			0	0	0	
+182	شەرواڵ	hamsymmlr,hamfingerstraightmod,hamlargemod,hamfist,hamthumbacrossmod,hamextfingerl,hampalmul,hamtouch,hamstomach,hammoveur			0	0	0	
+183	کورتەک و شەرواڵ	hamsymmlr,hamfingerstraightmod,hamlargemod,hamfist,hamthumbacrossmod,hamextfingerl,hampalmul,hamtouch,hamstomach,hammoveur,hamparbegin,hammoveur,hamlrat,hamshoulders,hamreplace,hamextfingerul,hampalmul,hamplus,hamreplace,hamnondominant,hamparend,hamparbegin,hamreplace,hamfinger23,hamplus,hamnomotion,hamparend,hamparbegin,hammover,hamplus,hamnomotion,hamparend			0	0	0	
+184	ڕانک و چۆغەڵ	hamsymmlr,hamfist,hamthumbacrossmod,hamextfingerl,hampalmul,hamtouch,hamstomach,hammoveur,hamparbegin,hamreplace,hamflathand,hamparend,hamparbegin,hamreplace,hamextfingerdl,hampalml,hamplus,hamreplace,hamextfingerdr,hampalmdr,hamparend			0	0	0	
+185	پشتێن	hamsymmlr,hamfinger2,hamfingerbendmod,hamparbegin,hamextfingerl,hampalmd,hamplus,hamextfingerr,hampalmu,hamparend,hamfingermidjoint,hamtouch,hamparbegin,hamreplace,hamcee12,hamparend,hamparbegin,hamreplace,hamextfingerd,hampalml,hamparend,hamclose,hamchest,hamparbegin,hammover,hamsmallmod,hamplus,hamnomotion,hamparend			0	0	0	
+186	دۆخین	hamsymmlr,hamfinger2,hamthumbacrossmod,hamparbegin,hamextfingerul,hampalmu,hamplus,hamextfingerur,hampalmul,hamparend,hamfingermidjoint,hamtouch,hamstirccw,hamsmallmod,hamparbegin,hamreplace,hamfist,hamthumbacrossmod,hamparend,hamparbegin,hamreplace,hamextfingerl,hampalmul,hamparend,hamtouch,hamstomach,hammoveur			0	0	0	
+187	کلێتە	hamfinger2345,hamthumboutmod,hamextfingerl,hampalmd,hamheadtop,hamparbegin,hammoveur,hamsmallmod,hamtense,hamreplace,hamceeall,hamfingerbendmod,hamparend			0	0	0	
+188	جەمەدانی	hamfinger2,hamextfingerdl,hampalmul,hamheadtop,hamlrat,hamcircleol,hamsmallmod,hamrepeatfromstart			0	0	0	
+189	بێجامە	hamsymmlr,hamflathand,hamthumboutmod,hamextfingerdl,hampalmdl,hamstomach,hammovedr,hamsmallmod,hamarcd			0	0	0	
+190	کڵاش	hamsymmlr,hamfinger2,hamthumbacrossmod,hamparbegin,hamextfingerul,hampalmu,hamplus,hamextfingerur,hampalmul,hamparend,hamfingermidjoint,hamtouch,hamstirccw,hamsmallmod,hamparbegin,hamreplace,hamfist,hamthumbacrossmod,hamparend,hamparbegin,hamreplace,hamextfingerl,hampalmul,hamparend,hamclose,hamstomach,hamstircw			0	0	0	
+191	پۆتین	hamsymmlr,hamfist,hamthumbacrossmod,hamextfingerl,hampalmd,hamclose,hamstomach,hamstircw,hamrepeatfromstart			0	0	0	
+192	کەم ئەندام	hamsymmlr,hamflathand,hamfingerbendmod,hamextfingerd,hampalmdr,hamchest			0	0	0	
+193	کەڕ	hamfinger23,hamextfingeru,hampalml,hamear			0	0	0	
+194	ڵاڵ	hamfinger23,hamextfingeru,hampalmu,hamtongue			0	0	0	
+195	نابینا	hamsymmlr,hamfinger2345,hamextfingero,hampalmd,hamchest,hamfingerplay			0	0	0	
+196	قوتابخانە	hamsymmlr,hamflathand,hamfingerbendmod,hamthumboutmod,hamextfingero,hampalmul,hamchest,hammovel,hamsmallmod,hammover,hamsmallmod,hamrepeatfromstart			0	0	0	
+197	باخچەی ساوایان	hamcee12,hamextfingero,hampalml,hamtongue,hamparbegin,hammoved,hamchest,hamreplace,hamextfingero,hampalmd,hamparend,hamparbegin,hamreplace,hamfinger2345,hamparend,hammoved,hamsmallmod			0	0	0	
+198	سەرەتایی	hamsymmlr,hamflathand,hamfingerbendmod,hamthumboutmod,hamextfingero,hampalmul,hamchest,hammovel,hamsmallmod,hammover,hamsmallmod,hamrepeatfromstart,hamparbegin,hammoveu,hamreplace,hamfinger2,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hamextfingeru,hampalmd,hamplus,hamnomotion,hamparend,hamparbegin,hammoved,hamreplace,hamextfingerd,hampalmd,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hamfinger2,hamthumboutmod,hamplus,hamnomotion,hamparend			0	0	0	
+199	ناوەندی	hamsymmlr,hamflathand,hamfingerbendmod,hamthumboutmod,hamextfingero,hampalmul,hamchest,hammovel,hamsmallmod,hammover,hamsmallmod,hamrepeatfromstart,hamparbegin,hammoveu,hamreplace,hamfinger2,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hamextfingeru,hampalmd,hamplus,hamnomotion,hamparend,hamparbegin,hammover,hamsmallmod,hamreplace,hamflathand,hamthumbacrossmod,hampinky,hamfingerhookmod,hamplus,hamnomotion,hamparend			0	0	0	
+200	ئامادەیی	hamsymmlr,hamflathand,hamfingerbendmod,hamthumboutmod,hamextfingero,hampalmul,hamchest,hammovel,hamsmallmod,hammover,hamsmallmod,hamrepeatfromstart,hamparbegin,hammoveu,hamreplace,hamflathand,hamthumbacrossmod,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hamextfingeru,hampalmd,hamplus,hamnomotion,hamparend,hamparbegin,hammoved,hamreplace,hamextfingerd,hampalmd,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hamfinger2,hamthumboutmod,hamplus,hamnomotion,hamparend			0	0	0	
+201	پۆڵ	hamfinger2345,hamthumboutmod,hamfingerbendmod,hamextfingerd,hampalmd,hamchest,hamlrat,hamparbegin,hamreplace,hamextfingeruo,hamextfingerol,hampalmr,hamparend			0	0	0	
+202	قوتابی	hamsymmlr,hamflathand,hamfingerbendmod,hamthumboutmod,hamextfingero,hampalmul,hamchest,hammovel,hamsmallmod,hammover,hamsmallmod,hamrepeatfromstart,hamparbegin,hamreplace,hamflathand,hamfingerbendmod,hamplus,hamreplace,hamflathand,hamparend,hamparbegin,hamreplace,hamextfingerd,hampalml,hamparend,hamparbegin,hambelowstomach,hamlrat,hamplus,hamlrat,hambelowstomach,hamparend,hamparbegin,hammoveu,hamsmallmod,hamplus,hamnomotion,hamparend			0	0	0	
+203	تەختەڕەش	hamsymmlr,hamfinger2,hamextfingeruo,hampalmdl,hamhead,hamclose,hammover,hamparbegin,hamreplace,hamextfingero,hampalmd,hammoved,hamparend,hamparbegin,hamreplace,hamextfingerol,hamclose,hammovel,hamparend,hamparbegin,hammoveu,hamreplace,hamextfingerul,hampalmdl,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hampinch12,hamheadtop,hamlrat,hammover,hamsmallmod,hamplus,hamnomotion,hamparend			0	0	0	
+204	تەختە	hamsymmlr,hamflathand,hamextfingeruo,hampalmdl,hamchest,hamclose,hammover,hamparbegin,hamreplace,hamextfingero,hampalmd,hammoved,hamparend,hamparbegin,hamreplace,hamextfingerol,hamclose,hammovel,hamparend			0	0	0	
+205	تەباشیر	hampinch12,hamfingerstraightmod,hamextfingerr,hampalmu,hamshoulders,hamlrbeside,hammovel			0	0	0	
+206	وانە	hamsymmlr,hamfinger2,hamparbegin,hamextfingerl,hampalmd,hamplus,hamextfingero,hampalmd,hamparend,hamfingermidjoint,hamtouch,hamparbegin,hammoved,hamsmallmod,hammoveu,hamsmallmod,hamrepeatfromstart,hamplus,hamnomotion,hamparend			0	0	0	
+207	کتێبخانە	hamsymmpar,hamflathand,hamextfingeru,hampalml,hamhead,hammovel,hamarcu,hamrepeatcontinueseveral			0	0	0	
+208	دان/بەخشین	hamflathand,hamextfingero,hampalmu,hammoveo			0	0	0	
+209	ئازاردان	hamparbegin,hamfinger23spread,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerd,hampalmd,hamplus,hamextfingero,hampalmr,hamparend,hamlrbeside,hamthumbball,hammovedl,hamfingerpad			0	0	0	
+210	ئاودان	hamsymmpar,hamfist,hamextfingerdl,hampalml,hammoved,hamsmallmod,hammoveul,hamlargemod			0	0	0	
+211	بازدان	hamfinger23spread,hamextfingerd,hampalmd,hammoveo,hamarcu			0	0	0	
+212	پارەدان	hamparbegin,hamfist,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerl,hampalmul,hamplus,hamextfingeror,hampalmu,hamparend,hamparbegin,hamshoulders,hamlrat,hamplus,hamchest,hamparend,hammovedl,hamslow			0	0	0	
+213	پاڵ دان	hamsymmlr,hamfinger2345,hamthumboutmod,hamextfingeru,hampalmd,hammoveo			0	0	0	
+214	پیشاندان	hamsymmlr,hamfinger23,hamthumbacrossmod,hamextfingerul,hampalmdr,hammovel,hamsmallmod			0	0	0	
+215	پێک دادان	hamsymmlr,hamflathand,hamextfingerl,hampalml,hammovel,hamparbegin,hamreplace,hamfist,hamparend,hamtouch			0	0	0	
+216	دەرس دان	hamparbegin,hamfinger2,hamplus,hamfinger2,hamthumboutmod,hamparend,hamparbegin,hamextfingerdl,hampalmu,hamplus,hamextfingero,hampalmd,hamparend,hamthumbball,hamparbegin,hamreplace,hamfinger23,hamparend,hamparbegin,hamreplace,hamextfingerl,hampalml,hamparend,hamtongue,hamfingerplay			0	0	0	
+217	دەست لێ دان	hamparbegin,hamflathand,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerl,hampalmd,hamplus,hamextfingero,hampalmd,hamparend,hamfingermidjoint,hammovedr,hamsmallmod,hammoveul,hamsmallmod			0	0	0	
+218	سەوڵ لێ دان	hamsymmlr,hamfist,hamextfingero,hampalmdr,hammoveor,hamarcr,hamrepeatfromstart			0	0	0	
+219	سزادان	hamfinger2345,hamthumboutmod,hamfingerbendmod,hamextfingero,hampalmu,hamshoulders,hamparbegin,hammoved,hamreplace,hampinchall,hamfingerstraightmod,hamparend			0	0	0	
+220	شایەتی دان	hamsymmlr,hamcee12,hamextfingerol,hampalml,hameyes,hamparbegin,hammoved,hamneck,hamreplace,hamextfingeril,hamparend			0	0	0	
+221	گرێ دان	hamsymmlr,hamcee12,hamextfingeri,hampalml,hamtouch,hamtwisting,hamparbegin,hamreplace,hamextfingeru,hampalml,hamparend,hamparbegin,hamreplace,hampinch12,hamfingerstraightmod,hamfingerplay,hamparend,hammover,hamsmallmod			0	0	0	
+222	غاردان	hamsymmlr,hamfingerstraightmod,hamfist,hamextfingerl,hampalml,hamcirclel,hamsmallmod,hamrepeatfromstart			0	0	0	
+223	فڕێ دان	hampinch12,hamfingerstraightmod,hamextfingerr,hampalmu,hamshouldertop,hamlrat,hamparbegin,hammovel,hamlrat,hamshouldertop,hamreplace,hamfinger2,hamthumboutmod,hamparend,hamparbegin,hamreplace,hamextfingerl,hampalmdl,hamparend			0	0	0	
+224	قووت دان	hamcee12,hamextfingeril,hampalmr,hamunderchin,hammoved,hamsmallmod			0	0	0	
+225	هاندان	hamcee12,hamextfingeru,hampalml,hamlips,hamcirclei,hamsmallmod,hamparbegin,hammover,hamshoulders,hamlrat,hamreplace,hamfist,hamthumboutmod,hamparend,hamparbegin,hamreplace,hamextfingerl,hamparend			0	0	0	
+226	هەوڵ دان	hamsymmlr,hamfingerstraightmod,hamlargemod,hamfist,hamextfingerl,hampalml,hamchest,hamclose,hamcirclel,hamrepeatfromstart			0	0	0	
+227	هەناسەدان	hamfinger2345,hamthumboutmod,hamextfingerl,hampalml,hamshoulders		[C02]	0	0	0	
+228	یارمەتی دان	hamparbegin,hamflathand,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerl,hampalmu,hamplus,hamextfingero,hampalmd,hamparend,hampalm,hammoveo,hamsmallmod			0	0	0	
+229	تەلاق دان	hamsymmlr,hamfist,hamthumboutmod,hamextfingerl,hampalmdl,hamtouch,hamparbegin,hammoveur,hamarcr,hamreplace,hamextfingerul,hamparend			0	0	0	
+230	هێنان	hamsymmlr,hamflathand,hamextfingero,hampalmu,hamparbegin,hammovei,hamreplace,hamfist,hamparend			0	0	0	
+231	دەرهێنان	hamparbegin,hampinchall,hamfingerstraightmod,hamplus,hamflathand,hamfingerbendmod,hamparend,hamparbegin,hamextfingerl,hampalmd,hamplus,hamextfingerr,hampalmr,hamparend,hamhandback,hamclose,hammoveur			0	0	0	
+232	وازهێنان	hamsymmlr,hamflathand,hamextfingerd,hampalmd,hamparbegin,hammoveu,hamreplace,hamflathand,hamfingerbendmod,hamparend,hamparbegin,hammoved,hamhalt,hamreplace,hamfinger2345,hamparend			0	0	0	
+233	کێشان	hamsymmlr,hamfinger2345,hamthumboutmod,hamfingerbendmod,hamextfingero,hampalmu,hammoveu,hamsmallmod,hammoved,hamsmallmod,hamrepeatfromstart			0	0	0	
+234	ڕاکێشان	hamsymmpar,hamfist,hamextfingerol,hampalml,hamchest,hammoveur			0	0	0	
+235	بنیادنان	hamsymmlr,hamfingerstraightmod,hamlargemod,hamflathand,hamextfingerl,hampalml,hamparbegin,hamshoulders,hamplus,hamchest,hamparend,hammoved,hamsmallmod,hammoveu,hamsmallmod,hamrepeatfromstartseveral			0	0	0	
+236	خلیسکان	hamfinger23spread,hamthumbacrossmod,hamextfingerd,hampalmd,hammoved,hamsmallmod,hamparbegin,hamreplace,hamextfingerdr,hampalmu,hamparend			0	0	0	
+237	دانان	hamflathand,hamextfingerl,hampalmd,hammoved,hamsmallmod,hamslow			0	0	0	
+238	دەردان	hampinchall,hamfingerstraightmod,hamextfingerl,hampalmu,hamlrat,hamshoulders,hamparbegin,hammovedr,hamstomach,hamreplace,hamflathand,hamfingerbendmod,hamparend			0	0	0	
+239	ژیان	hamsymmlr,hamfinger2345,hamthumboutmod,hamextfingerl,hampalml,hamtouch,hamparbegin,hammoveur,hamlargemod,hamreplace,hamextfingeru,hampalmd,hamparend			0	0	0	
+240	ڕووخان	hamsymmpar,hamflathand,hamextfingeru,hampalml,hamshoulders,hamparbegin,hammover,hamreplace,hamextfingerur,hamparend			0	0	0	
+241	سەرسووڕمان	hamsymmlr,hampinchall,hamextfingeru,hampalml,hamhead,hamparbegin,hammoveur,hamsmallmod,hamreplace,hamfinger2345,hamthumboutmod,hamparend			0	0	0	
+242	سووڕانەوە	hamfinger2,hamextfingerdl,hampalmul,hamlrat,hamchest,hamcircleol,hamsmallmod			0	0	0	
+243	گەڕانەوە	hamfinger2,hamextfingerd,hampalmdr,hamchest,hamcircleir,hamsmallmod			0	0	0	
+244	گڕیان	hamcee12,hamextfingerl,hampalml,hameyes,hammoved,hamsmallmod,hammoveu,hamsmallmod,hamrepeatfromstart		[L31]	0	0	0	
+245	لەخەو هەڵسان	hamsymmlr,hamfist,hamextfingerl,hampalmd,hamchest,hamtwisting,hamsmallmod			0	0	0	
+246	هەستان	hamflathand,hamextfingero,hampalmu,hammoveu,hamsmallmod			0	0	0	
+247	بیرکاری	hamfist,hamextfingerl,hampalml,hammoveu,hamparbegin,hamreplace,hamfist,hamthumbacrossmod,hamparend,hamparbegin,hamreplace,hamincreasing,hamfinger2345,hamthumboutmod,hamparend			0	0	0	
+248	سفر	hamparbegin,hampinch12,hamfingerstraightmod,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerl,hampalmd,hamplus,hamextfingerr,hampalmu,hamparend,hampalm			0	0	0	
+249	یەک	hamfinger2,hamextfingeru,hampalmd,hamshoulders			0	0	0	
+250	دوو	hamfinger23,hamthumbacrossmod,hamextfingeru,hampalmd,hamshoulders			0	0	0	
+251	سێ	hamflathand,hamthumbacrossmod,hampinky,hamfingerhookmod,hamextfingeru,hampalmd,hamshoulders			0	0	0	
+252	چوار	hamflathand,hamthumbacrossmod,hamextfingeru,hampalmd,hamshoulders			0	0	0	
+253	پێنج	hamfinger2345,hamthumboutmod,hamextfingeru,hampalmd,hamshoulders			0	0	0	
+254	شەش	hamsymmlr,hamparbegin,hamfist,hamthumboutmod,hamplus,hamfinger2345,hamthumboutmod,hamparend,hamextfingeru,hampalmd,hamchest,hamclose			0	0	0	
+255	حەوت	hamsymmlr,hamparbegin,hamfinger2,hamthumboutmod,hamplus,hamfinger2345,hamthumboutmod,hamparend,hamextfingeru,hampalmd,hamchest,hamclose			0	0	0	
+256	هەشت	hamsymmlr,hamparbegin,hamfinger23spread,hamthumboutmod,hamplus,hamfinger2345,hamthumboutmod,hamparend,hamextfingeru,hampalmd,hamchest,hamclose			0	0	0	
+257	نۆ	hamsymmlr,hamparbegin,hamfinger2345,hamthumbacrossmod,hamplus,hamfinger2345,hamthumboutmod,hamparend,hamextfingeru,hampalmd,hamchest,hamclose			0	0	0	
+258	دە	hamsymmlr,hamfinger2345,hamthumboutmod,hamextfingeru,hampalmd,hamchest,hamlrat,hamclose			0	0	0	
+259	یانزە	hamsymmlr,hamflathand,hamextfingeru,hampalml,hamchest,hamlrat,hamtouch,hammovel,hamsmallmod,haminterlock,hamparbegin,hamreplace,hamfinger2,hamplus,hamreplace,hamnondominant,hamparend,hamparbegin,hamreplace,hampalmd,hamplus,hamnomotion,hamparend			0	0	0	
+260	دوانزە	hamsymmlr,hamflathand,hamextfingeru,hampalml,hamchest,hamlrat,hamtouch,hammovel,hamsmallmod,haminterlock,hamparbegin,hamreplace,hamfinger23,hamthumbacrossmod,hamplus,hamreplace,hamnondominant,hamparend,hamparbegin,hamreplace,hampalmd,hamplus,hamnomotion,hamparend			0	0	0	
+261	سێزدە	hamsymmlr,hamflathand,hamextfingeru,hampalml,hamchest,hamlrat,hamtouch,hammovel,hamsmallmod,haminterlock,hamparbegin,hamreplace,hamflathand,hamthumbacrossmod,hampinky,hamfingerhookmod,hamplus,hamreplace,hamnondominant,hamparend,hamparbegin,hamreplace,hampalmd,hamplus,hamnomotion,hamparend			0	0	0	
+262	چواردە	hamsymmlr,hamflathand,hamextfingeru,hampalml,hamchest,hamlrat,hamtouch,hammovel,hamsmallmod,haminterlock,hamparbegin,hamreplace,hamflathand,hamthumbacrossmod,hamplus,hamreplace,hamnondominant,hamparend,hamparbegin,hamreplace,hampalmd,hamplus,hamnomotion,hamparend			0	0	0	
+263	پانزە	hamsymmlr,hamflathand,hamextfingeru,hampalml,hamchest,hamlrat,hamtouch,hammovel,hamsmallmod,haminterlock,hamparbegin,hamreplace,hamfinger2345,hamthumboutmod,hamplus,hamreplace,hamnondominant,hamparend,hamparbegin,hamreplace,hampalmd,hamplus,hamnomotion,hamparend			0	0	0	
+264	شانزە	hamsymmlr,hamflathand,hamextfingeru,hampalml,hamchest,hamlrat,hamtouch,hammovel,hamsmallmod,haminterlock,hamparbegin,hamreplace,hamfist,hamthumboutmod,hamplus,hamreplace,hamfinger2345,hamthumboutmod,hamparend,hamparbegin,hamreplace,hampalmd,hamparend,hamparbegin,hamchest,hamlrat,hamplus,hamlrat,hamchest,hamparend			0	0	0	
+265	حەڤدە	hamsymmlr,hamflathand,hamextfingeru,hampalml,hamchest,hamlrat,hamtouch,hammovel,hamsmallmod,haminterlock,hamparbegin,hamreplace,hamfinger2,hamthumboutmod,hamplus,hamreplace,hamfinger2345,hamthumboutmod,hamparend,hamparbegin,hamreplace,hampalmd,hamparend,hamparbegin,hamchest,hamlrat,hamplus,hamlrat,hamchest,hamparend			0	0	0	
+266	هەژدە	hamsymmlr,hamflathand,hamextfingeru,hampalml,hamchest,hamlrat,hamtouch,hammovel,hamsmallmod,haminterlock,hamparbegin,hamreplace,hamfinger23,hamthumboutmod,hamplus,hamreplace,hamfinger2345,hamthumboutmod,hamparend,hamparbegin,hamreplace,hampalmd,hamparend,hamparbegin,hamchest,hamlrat,hamplus,hamlrat,hamchest,hamparend			0	0	0	
+267	نۆزدە	hamsymmlr,hamflathand,hamextfingeru,hampalml,hamchest,hamlrat,hamtouch,hammovel,hamsmallmod,haminterlock,hamparbegin,hamreplace,hamflathand,hamthumbacrossmod,hamplus,hamreplace,hamfinger2345,hamthumboutmod,hamparend,hamparbegin,hamreplace,hampalmd,hamparend,hamparbegin,hamchest,hamlrat,hamplus,hamlrat,hamchest,hamparend			0	0	0	
+268	بیست	hamfinger23spread,hamthumbacrossmod,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod			0	0	0	
+269	بیست و یەک	hamfinger23spread,hamthumbacrossmod,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod,hamparbegin,hamreplace,hamfinger2,hamparend			0	0	0	
+270	بیست و دوو	hamfinger23spread,hamthumbacrossmod,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod,hamparbegin,hamreplace,hamfinger23,hamparend			0	0	0	
+271	بیست و سێ	hamfinger23spread,hamthumbacrossmod,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod,hamparbegin,hamreplace,hamfinger23,hamthumboutmod,hamparend			0	0	0	
+272	بیست و چوار	hamfinger23spread,hamthumbacrossmod,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod,hamparbegin,hamreplace,hamflathand,hamthumbacrossmod,hamparend			0	0	0	
+273	بیست و پێنج	hamfinger23spread,hamthumbacrossmod,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod,hamparbegin,hamreplace,hamfinger2345,hamthumboutmod,hamparend			0	0	0	
+274	بیست و شەش	hamsymmpar,hamparbegin,hamfinger23spread,hamthumbacrossmod,hamplus,hamnondominant,hamparend,hamextfingeru,hampalmd,hamshoulders,hamparbegin,hamswinging,hamsmallmod,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hamfinger2345,hamthumboutmod,hamplus,hamreplace,hamfist,hamthumboutmod,hamparend			0	0	0	
+275	بیست و حەوت	hamsymmpar,hamparbegin,hamfinger23spread,hamthumbacrossmod,hamplus,hamnondominant,hamparend,hamextfingeru,hampalmd,hamshoulders,hamparbegin,hamswinging,hamsmallmod,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hamfinger2345,hamthumboutmod,hamplus,hamreplace,hamfinger2,hamthumboutmod,hamparend,hamclose			0	0	0	
+276	بیست و هەشت	hamsymmpar,hamparbegin,hamfinger23spread,hamthumbacrossmod,hamplus,hamnondominant,hamparend,hamextfingeru,hampalmd,hamshoulders,hamparbegin,hamswinging,hamsmallmod,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hamfinger2345,hamthumboutmod,hamplus,hamreplace,hamfinger23,hamthumboutmod,hamparend,hamclose			0	0	0	
+277	بیست و نۆ	hamsymmpar,hamparbegin,hamfinger23spread,hamthumbacrossmod,hamplus,hamnondominant,hamparend,hamextfingeru,hampalmd,hamshoulders,hamparbegin,hamswinging,hamsmallmod,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hamfinger2345,hamthumboutmod,hamplus,hamreplace,hamflathand,hamthumbacrossmod,hamparend,hamclose			0	0	0	
+278	سی	hamflathand,hamthumbacrossmod,hampinky,hamfingerhookmod,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod			0	0	0	
+279	سی و یەک	hamflathand,hamthumbacrossmod,hampinky,hamfingerhookmod,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod,hamparbegin,hamreplace,hamfinger2,hamthumbacrossmod,hamparend			0	0	0	
+280	چل	hamflathand,hamthumbacrossmod,hamextfingeru,hampalmd,hamshoulders,hamswinging			0	0	0	
+281	چل و یەک	hamflathand,hamthumbacrossmod,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod,hamparbegin,hamreplace,hamfinger2,hamthumbacrossmod,hamparend			0	0	0	
+282	پەنجا	hamfinger2345,hamthumboutmod,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod			0	0	0	
+283	پەنجا و یەک	hamfinger2345,hamthumboutmod,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod,hamparbegin,hamreplace,hamfinger2,hamthumbacrossmod,hamparend			0	0	0	
+284	شەست	hamsymmlr,hamparbegin,hamfinger2345,hamthumboutmod,hamplus,hamfist,hamthumboutmod,hamparend,hamextfingeru,hampalmd,hamshoulders,hamswinging			0	0	0	
+285	شەست و یەک	hamsymmlr,hamparbegin,hamfinger2345,hamthumboutmod,hamplus,hamfist,hamthumboutmod,hamparend,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod,hamparbegin,hamreplace,hamfinger2,hamthumbacrossmod,hamplus,hamnomotion,hamparend			0	0	0	
+286	حەفتا	hamsymmlr,hamparbegin,hamfinger2345,hamthumboutmod,hamplus,hamfinger2,hamthumboutmod,hamparend,hamextfingeru,hampalmd,hamshoulders,hamswinging			0	0	0	
+287	حەفتا و یەک	hamsymmlr,hamparbegin,hamfinger2345,hamthumboutmod,hamplus,hamfinger2,hamthumboutmod,hamparend,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod,hamparbegin,hamreplace,hamfinger2,hamthumbacrossmod,hamplus,hamnomotion,hamparend			0	0	0	
+288	هەشتا	hamsymmlr,hamparbegin,hamfinger2345,hamthumboutmod,hamplus,hamfinger23,hamthumboutmod,hamparend,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod			0	0	0	
+289	هەشتا و یەک 	hamsymmlr,hamparbegin,hamfinger2345,hamthumboutmod,hamplus,hamfinger23,hamthumboutmod,hamparend,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod,hamparbegin,hamreplace,hamfinger2,hamthumbacrossmod,hamplus,hamnomotion,hamparend			0	0	0	
+290	نەوەد	hamsymmlr,hamparbegin,hamfinger2345,hamthumboutmod,hamplus,hamflathand,hamparend,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod			0	0	0	
+291	نەوەد و یەک	hamsymmlr,hamparbegin,hamfinger2345,hamthumboutmod,hamplus,hamflathand,hamparend,hamextfingeru,hampalmd,hamshoulders,hamswinging,hamsmallmod,hamparbegin,hamreplace,hamfinger2,hamthumbacrossmod,hamplus,hamnomotion,hamparend			0	0	0	
+292	سەد	hamfist,hamextfingerl,hampalmr,hamtongue,hamparbegin,hammovel,hamsmallmod,hamreplace,hamfinger2,hamparend			0	0	0	
+293	سەد و یەک	hamfist,hamextfingerl,hampalmr,hamtongue,hamparbegin,hammovel,hamsmallmod,hamreplace,hamfinger2,hamparend,hamparbegin,hammovel,hamshoulders,hamlrbeside,hamreplace,hamextfingeru,hampalmu,hamparend			0	0	0	
+294	هەزار	hamfist,hamextfingeru,hampalmu,hamtongue,hammoveo,hamshoulders,hamparbegin,hamreplace,hamfinger2,hamparend			0	0	0	
+295	ملیۆن	hamsymmlr,hamfist,hamthumbacrossmod,hamparbegin,hamextfingerl,hampalmu,hamplus,hamextfingerr,hampalmd,hamparend,hamfingerpad,hamtouch,hammovel,hamsmallmod,hammover,hamsmallmod			0	0	0	
+296	ملیار	hamsymmlr,hamfist,hamthumboutmod,hamextfingerl,hampalml,hamfingerpad,hamtouch,hamcircleir,hamclose			0	0	0	
+297	یەکان	hamfinger2,hamextfingeru,hampalmd,hamchest,hammovel,hamsmallmod,hamarcu,hamsmallmod,hamrepeatcontinueseveral			0	0	0	
+298	دەیان	hamfist,hamthumboutmod,hamextfingero,hampalmul,hamchest,hammover,hamsmallmod,hamarcu,hamsmallmod,hamrepeatcontinueseveral			0	0	0	
+299	هەزاران	hamfist,hamextfingeru,hampalmu,hamtongue,hammoveo,hamshoulders,hamparbegin,hamreplace,hamfinger2,hamparend,hammover,hamsmallmod,hamarcu,hamsmallmod,hamrepeatcontinueseveral			0	0	0	
+300	کۆ	hamsymmlr,hamfinger2,hamthumbacrossmod,hamparbegin,hamextfingeru,hampalmd,hamplus,hamextfingerr,hampalmr,hamparend,hamfingermidjoint,hamtouch			0	0	0	
+301	کەم	hamfinger2,hamextfingerl,hampalml,hamchest,hammover,hamparbegin,hamreplace,hamfinger2,hamfingerbendmod,hamparend			0	0	0	
+302	جاران	hamsymmlr,hamfinger2,hamthumbacrossmod,hamparbegin,hamextfingerul,hampalmu,hamplus,hamextfingerur,hampalmul,hamparend,hamfingermidjoint,hamtouch			0	0	0	
+303	دابەش	hamsymmlr,hamfinger2,hamthumbacrossmod,hamparbegin,hamextfingeru,hampalmd,hamplus,hamextfingerr,hampalmr,hamparend,hamfingermidjoint,hamtouch,hamparbegin,hammoved,hamsmallmod,hamplus,hamnomotion,hamparend			0	0	0	
+304	یەکسان	hamfinger23,hamextfingerl,hampalml,hamchest,hammover,hamparbegin,hamreplace,hamfinger23,hamfingerbendmod,hamparend			0	0	0	
+305	ژێرە	hamsymmlr,hamfinger2,hamparbegin,hamextfingero,hampalmd,hamplus,hamextfingerr,hampalmd,hamparend,hammovel,hamfingermidjoint,hamtouch			0	0	0	
+306	دووجا	hamfinger2,hamextfingerl,hampalml,hamchest,hamparbegin,hammoveo,hamreplace,hamfinger23,hamthumbacrossmod,hamparend,hamparbegin,hamreplace,hamextfingeru,hampalmd,hamparend			0	0	0	
+307	زانست	hamsymmlr,hamfinger2345,hammiddlefinger,hamfingerstraightmod,hamextfingerui,hampalml,hamhead,hamlrat,hamclose,hamparbegin,hammover,hamsmallmod,hamslow,hamreplace,hamflathand,hamfingerbendmod,hamparend			0	0	0	
+308	تەکنەلۆجیا	hamsymmlr,hamfinger2345,hammiddlefinger,hamfingerstraightmod,hamextfingerui,hampalml,hamhead,hamlrat,hamclose,hamparbegin,hammover,hamsmallmod,hamslow,hamreplace,hamflathand,hamfingerbendmod,hamparend,hamparbegin,hamreplace,hampinch12,hamreplace,hamincreasing,hamfinger2,hamplus,hamnomotion,hamparend			0	0	0	
+309	کیمیا	hamsymmlr,hamfingerstraightmod,hamlargemod,hamfist,hamthumboutmod,hamextfingeruo,hamextfingerol,hampalmr,hammoved,hamsmallmod,hammoveu,hamsmallmod,hamrepeatfromstart,hamparbegin,hamreplace,hamextfingero,hampalmu,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hampinchall,hamplus,hamnomotion,hamparend,hamparbegin,hammoveu,hamsmallmod,hamreplace,hamfinger2345,hamthumboutmod,hamfingerbendmod,hamplus,hamnomotion,hamparend			0	0	0	
+310	کێشی زەوی	hamparbegin,hamfinger2345,hamthumboutmod,hamfingerbendmod,hamplus,hamflathand,hamparend,hamparbegin,hamextfingeru,hampalmd,hamplus,hamextfingerr,hampalmd,hamparend,hamparbegin,hamshouldertop,hamlrat,hamplus,hamwristback,hampalm,hamparend,hammoved,hamslow			0	0	0	
+311	هێز 	hamsymmlr,hamfist,hamextfingeru,hampalml,hamshouldertop,hamlrbeside,hammoveo,hamsmallmod,hamhalt			0	0	0	
+312	هەڵم	hamsymmlr,hamfingerstraightmod,hamlargemod,hamfinger2345,hamthumboutmod,hamfingerbendmod,hamextfingero,hampalmu,hammoved,hamsmallmod,hammoveu,hamsmallmod,hamrepeatfromstart			0	0	0	
+313	ئاسمان	hamflathand,hamthumboutmod,hamextfingerur,hampalmul,hamhead,hamlrbeside,hamcircleol,hamsmallmod,hamrepeatfromstart,hamparbegin,hammover,hamtongue,hamreplace,hamextfingeru,hampalmu,hamparend,hamparbegin,hamreplace,hamfinger2,hamparend,hammoved,hamsmallmod			0	0	0	
+314	ئەستێرە	hamcee12,hamthumbacrossmod,hamfingerstraightmod,hamindexfinger,hammiddlefinger,hamextfingerur,hampalmul,hamhead,hamlrbeside,hamtwisting,hamfingerplay			0	0	0	
+315	خۆر	hampinch12open,hamextfingeru,hampalmdl,hamhead,hamlrbeside			0	0	0	
+316	مانگ	hamcee12,hamextfingeru,hampalmdl,hamhead,hamlrbeside			0	0	0	
+317	ئەستێرە رژان	hamcee12,hamthumbacrossmod,hamfingerstraightmod,hamindexfinger,hammiddlefinger,hamextfingeru,hampalml,hamhead,hamlrbeside,hamparbegin,hammovel,hamhalt,hamreplace,hamfinger23spread,hamthumboutmod,hamfingerbendmod,hamparend			0	0	0	
+318	فێنک	hamsymmlr,hamflathand,hamextfingerul,hampalmdl,hamshoulders,hammovedr,hamsmallmod,hammoveul,hamsmallmod,hamrepeatfromstart			0	0	0	
+319	هەوا	hamflathand,hamextfingeru,hampalml,hamhead,hamlrat,hammovel,hamslow			0	0	0	
+320	هونەر	hamfist,hamextfingerl,hampalmd,hamhead,hamlrat,hamparbegin,hammovel,hamreplace,hamfinger23spread,hamthumboutmod,hamparend			0	0	0	
+321	وێنەگرتن	hamsymmlr,hamfingerstraightmod,hamlargemod,hamcee12,hamextfingerul,hampalmd,hamhead,hamseqbegin,hammoveu,hamsmallmod,hammoved,hamsmallmod,hamfingerplay,hamseqend,hamrepeatfromstart			0	0	0	
+322	نیگار	hamfinger23,hamextfingeru,hampalmul,hamhead,hamlrat,hammovedl,hamwavy			0	0	0	
+323	نیگارکێش	hamfinger23,hamextfingeru,hampalmul,hamhead,hamlrat,hammovedl,hamwavy			0	0	0	
+324	پەیکەرتاشین	hamparbegin,hamfist,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerl,hamplus,hamextfingeru,hamparend,hampalmd,hampalm,hammovel,hamsmallmod,hamarcu			0	0	0	
+325	مۆسیقا	hamparbegin,hamfinger2345,hamthumboutmod,hamfingerbendmod,hamplus,hamflathand,hamfingerbendmod,hamparend,hamparbegin,hamextfingerd,hampalmd,hamplus,hamextfingeruo,hamextfingerol,hampalmu,hamparend,hamparbegin,hamchest,hamplus,hamlrbeside,hamshouldertop,hamparend,hammoveul,hammovedr,hamrepeatfromstart			0	0	0	
+326	دەنگ	hamcee12,hamextfingeru,hampalml,hamtongue,hammoveo			0	0	0	
+327	ئۆرکێسترا	hamsymmlr,hamfinger2,hamextfingerdr,hampalmr,hamshoulders,hamlrbeside,hamseqbegin,hammovedl,hamarcd,hammoveur,hamarcd,hamseqend,hamrepeatfromstart			0	0	0	
+328	کەمانجە	hamparbegin,hamfinger2345,hamthumboutmod,hamfingerbendmod,hamplus,hamflathand,hamfingerbendmod,hamparend,hamparbegin,hamextfingerd,hampalmd,hamplus,hamextfingeruo,hamextfingerol,hampalmu,hamparend,hamparbegin,hamchest,hamplus,hamlrbeside,hamshouldertop,hamparend,hammoveul,hammovedr,hamrepeatfromstart			0	0	0	
+329	چەلۆ	hamparbegin,hampinch12,hamplus,hamflathand,hamfingerbendmod,hamparend,hamparbegin,hamextfingerdl,hampalml,hamplus,hamextfingerr,hampalmdr,hamparend,hamparbegin,hamchest,hamlrat,hamplus,hamlrat,hamhead,hamparend,hammovel,hammover,hamrepeatfromstart			0	0	0	
+330	وەرزش	hamsymmlr,hamfist,hamextfingerl,hampalml,hamshouldertop,hammoveo,hammovei			0	0	0	
+331	پێشبڕکێ	hamsymmlr,hamfingerstraightmod,hamlargemod,hamfist,hamthumboutmod,hamextfingerl,hampalml,hamchest,hammoveu,hamsmallmod,hammoved,hamsmallmod,hamrepeatfromstart			0	0	0	
+332	تیر هاوێشتن	hampinch12,hamextfingeru,hampalml,hamhead,hamlrbeside,hamparbegin,hammovedl,hamshoulders,hamreplace,hampalmu,hamparend,hamparbegin,hamreplace,hamfinger2345,hamthumboutmod,hamparend			0	0	0	
+333	بازدان	hamsymmlr,hamfist,hamextfingero,hampalmu,hamcircleil,hamforehead			0	0	0	
+334	مشتەکۆڵە	hamsymmlr,hamlargemod,hamfingerstraightmod,hamfist,hamextfingero,hampalmdl,hamchest,hamclose,hammovei,hamrepeatfromstart			0	0	0	
+335	کاراتی	hamsymmlr,hamflathand,hamparbegin,hamextfingeru,hampalmu,hamplus,hamextfingerr,hampalmd,hamparend,hamhandback,haminterlock			0	0	0	
+336	جمناستیک	hamfinger2,hamextfingerl,hampalml,hamchest,hamlrat,hamcirclel,hamsmallmod			0	0	0	
+337	ئاسن بەرزکردنەوە	hamsymmlr,hamfist,hamextfingeru,hampalmd,hamshoulders,hamlrat,hammoveu,hammoved,hamslow			0	0	0	
+338	مێژوو	hamfinger2,hamextfingerul,hampalmul,hamtongue,hamparbegin,hamreplace,hamextfingeru,hampalml,hamparend,hamparbegin,hammoveur,hamlargemod,hamslow,hamreplace,hamflathand,hamfingerbendmod,hamparend			0	0	0	
+339	سەدە	hamfinger23spread,hamthumbacrossmod,hamextfingeru,hampalmd,hamshoulders,hamlrat,hamparbegin,hammover,hamtongue,hamreplace,hampalmu,hamparend,hamparbegin,hamreplace,hamfinger2,hamparend			0	0	0	
+340	سەردەم	hamsymmlr,hamfist,hamthumboutmod,hamextfingerdo,hamextfingerol,hampalmdl,hamtouch,hamtwisting,hamparbegin,hammoved,hamreplace,hamextfingerd,hamplus,hamnomotion,hamparend,hamparbegin,hamreplace,hamfinger2,hamplus,hamnomotion,hamparend			0	0	0	
+341	پاشایەتی	hamsymmlr,hamcee12,hamextfingero,hampalml,hamheadtop,hammoved,hamsmallmod			0	0	0	
+342	فارس	hamfist,hamextfingeru,hampalml,hamshouldertop,hamlrbeside			0	0	0	
+343	شەڕ	hamsymmlr,hamfinger2,hamextfingerul,hampalmdr,hamchest,hamtouch,hamtwisting			0	0	0	
+344	جوگرافیا	hamflathand,hamfingerbendmod,hamthumboutmod,hamextfingerui,hamextfingerir,hampalmu,hamshouldertop,hamlrat,hamstirccw,hamlargemod			0	0	0	
+345	نەخشە	hamsymmlr,hamfinger2,hamparbegin,hamextfingerl,hampalml,hamplus,hamextfingeru,hampalmu,hamparend,hamchest,hamtouch,hammovedr,hamlargemod,hamwavy			0	0	0	
+346	جیهان	hamsymmlr,hamflathand,hamthumboutmod,hamfingerbendmod,hamextfingeruo,hamextfingeror,hampalmu,hamthumbball,hamclose,hamstircw,hamrepeatfromstart			0	0	0	
+347	هێلی کەمەرەیی	hamparbegin,hamcee12,hamplus,hamflathand,hamthumboutmod,hamfingerbendmod,hamparend,hamparbegin,hamextfingeru,hampalml,hamplus,hamextfingero,hampalmu,hamparend,hamparbegin,hamshouldertop,hamlrat,hamplus,hamlrat,hamchest,hamparend,hammovedl,hampalm,hamclose			0	0	0	
+348	هێلی درێژی	hamfinger2,hamextfingero,hampalmd,hamshoulders,hammoved			0	0	0	
+349	هێلی پانی	hamfinger2,hamextfingero,hampalmd,hamchest,hamlrat,hammovel			0	0	0	
+350	قیبلەنامە	hamsymmlr,hamfinger2,hamfingerbendmod,hamextfingerol,hampalml,hamparbegin,hamshoulders,hamplus,hamchest,hamparend,hamfingerplay,hamrepeatfromstart			0	0	0	
+351	جەمسەر	hamsymmlr,hamfinger2,hamextfingerl,hampalml,hamfingertip,hamtouch,hamnodding			0	0	0	
+352	باکوور	hamfinger2,hamextfingeru,hampalml,hamhead,hamlrat			0	0	0	
+353	ڕۆژئاوا	hamfinger2,hamextfingerr,hampalml,hamchest,hamlrbeside			0	0	0	
+354	باشوور	hamfinger2,hamthumbacrossmod,hamextfingerd,hampalmd,hamchest			0	0	0	
+355	ڕۆژهەڵات	hamfinger2,hamextfingerl,hampalmr,hamlrbeside,hamchest			0	0	0	
+356	کیشوەر	hamfinger23spread,hamextfingeru,hampalmu,hamhead,hamlrat,hamparbegin,hammover,hamreplace,hamextfingerur,hampalmu,hamparend,hamparbegin,hamreplace,hamflathand,hamfingerbendmod,hamparend			0	0	0	
+357	ئەوروپا	hamfinger2345,hamthumboutmod,hamextfingeru,hampalmd,hamshoulders,hamlrbeside,hamcircleo,hamsmallmod			0	0	0	
+358	ئەفریقیا	hamfinger2345,hamthumboutmod,hamextfingeru,hampalmu,hamhead,hamcirclei			0	0	0	
+359	کیشوەری ئوسترالیا	hamflathand,hamextfingerl,hampalml,hamhead,hamlrat,hamparbegin,hammover,hamreplace,hamextfingerur,hamparend			0	0	0	
+360	ڕوسیا	hamparbegin,hamcee12,hamplus,hamfinger2,hamparend,hamextfingeru,hamparbegin,hampalml,hamplus,hampalmu,hamparend,hamparbegin,hamshoulders,hamclose,hamplus,hamchest,hamparend			0	0	0	
+361	عیراق	hamflathand,hamextfingeru,hampalmd,hamforehead			0	0	0	
+362	کوردستان	hampinch12open,hamextfingeru,hampalml,hamshoulders,hamlrat			0	0	0	
+363	ئێران	hamfist,hamextfingero,hampalml,hamshouldertop,hamlrbeside,hammoved,hamslow			0	0	0	
+364	کوێت	hamfinger23spread,hamthumbacrossmod,hamextfingerul,hampalml,hamforehead,hamlrbeside			0	0	0	
+365	ئیمارات	hamfinger2,hamextfingeru,hampalml,hamnose,hamlrbeside,hammovel,hamlrbeside,hamnose			0	0	0	
+366	چین	hamfinger2,hamextfingerul,hampalml,hamnostrils			0	0	0	
+367	هیندستان	hamfinger2,hamextfingeru,hampalmu,hameyebrows			0	0	0	
+368	فلپین	hamfinger2,hamthumboutmod,hamextfingeru,hampalmd,hamhead,hamlrbeside,hammoveu,hamslow			0	0	0	
+369	ژاپۆن	hamfinger2,hamextfingerul,hampalmd,hamforehead,hamlrbeside			0	0	0	
+370	نەرویج	hamflathand,hamextfingerl,hampalmd,hamforehead			0	0	0	
+371	بەریتانیا	hamfinger23,hamextfingeru,hampalml,hamear,hammovedr,hamtongue			0	0	0	
+372	شوێن	hamsymmlr,hamflathand,hamextfingerol,hampalml,hamchest,hamclose			0	0	0	
+373	پارێزگا	hamsymmlr,hamflathand,hamparbegin,hamextfingeru,hampalml,hamplus,hamextfingerr,hampalmd,hamparend,hampalm,hamtouch			0	0	0	
+374	پایتەخت	hamparbegin,hamfist,hamthumboutmod,hamplus,hamflathand,hamparend,hamparbegin,hamextfingerl,hampalmr,hamplus,hamextfingerr,hampalmd,hamparend,hamshoulders,hammoved,hamsmallmod			0	0	0	
+375	هەولێر	hamsymmlr,hamcee12,hamextfingero,hampalml,hamchest,hamclose,hamparbegin,hammoveu,hamreplace,hamextfingerul,hampalmd,hamparend,hamshoulders,hamparbegin,hamreplace,hamfinger2,hamparend,hamfingermidjoint,haminterlock			0	0	0	
+376	سلێمانی	hamsymmlr,hamfingerstraightmod,hamlargemod,hamfist,hamextfingerl,hampalml,hamparbegin,hamshoulders,hamplus,hamchest,hamparend,hammoved,hamsmallmod,hammoveu,hamsmallmod,hamrepeatfromstart			0	0	0	
+377	دهۆک	hamsymmlr,hamflathand,hamextfingerl,hampalmu,hamparbegin,hamshoulders,hamplus,hamchest,hamparend			0	0	0	
+378	کەرکوک	hamfinger2,hamextfingeru,hampalmu,hamteeth			0	0	0	
+379	دیالە	hamflathand,hamfingerbendmod,hamextfingerl,hampalml,hamchest,hamlrat,hamswinging			0	0	0	
+380	تکریت	hamfinger2,hamextfingerd,hampalmd,hambelowstomach,hamlrbeside,hammoveu,hamzigzag,hamchest,hamlrbeside			0	0	0	
+381	بەغدا	hamflathand,hamextfingeru,hampalml,hamforehead			0	0	0	
+382	بابل	hamflathand,hamextfingerul,hampalml,hamtongue,hamlrbeside,hammovedl,hamsmallmod,hammoveur,hamsmallmod			0	0	0	
+383	نەجەف	hamsymmlr,hamfist,hamextfingero,hampalmd,hamtouch,hammover,hamsmallmod			0	0	0	
+384	بەسڕە	hamfinger2,hamextfingerl,hampalml,hamtongue,hamcirclel,hamsmallmod			0	0	0	
+385	کوت	hamfinger23,hamextfingerl,hampalml,hamchest,hamlrat,hamfingerplay,hammovel,hamfingerplay			0	0	0	
+386	شەقڵاوە	hamflathand,hamextfingerdl,hampalml,hamshouldertop,hamlrat,hammovedl,hamwavy			0	0	0	
+387	دوکان	hamfinger23spread,hamthumboutmod,hamindexfinger,hampinky,hamextfingeru,hampalmu,hamhead,hamlrat,hamcircleo			0	0	0	
+388	کەلار	hamfinger2,hamextfingeru,hampalml,hamchin,hammoved,hamunderchin			0	0	0	
+389	ئامێدی	hamsymmlr,hamcee12,hamextfingero,hampalml,hamshoulders			0	0	0	
+390	نەورۆز	hamsymmlr,hamfinger2,hamextfingerul,hampalmd,hamfingermidjoint,hamtouch			0	0	0	
+391	کوران	hamfinger2345,hamthumboutmod,hamextfingeru,hampalmd,hamchest			0	0	0	
+392					0	0	0	
+393	عەنکاوە	hamfinger23,hamindexfinger,hamfingerbendmod,hamextfingeru,hampalmd,hamchest			0	0	0	
+394	موفتی	hamcee12,hamextfingerl,hampalmu,hamchest,hamlrat,hammoved,hamsmallmod,hammoveu,hamsmallmod			0	0	0	
+395	گڵ کەند	hamcee12,hamextfingerl,hampalmu,hamchest,hamlrat,hammovel,hamarcu,hamrepeatcontinueseveral			0	0	0	
+396	مەنتکاوە	hamfinger23spread,hamthumbacrossmod,hamextfingerd,hampalmd,hamchest,hamlrat			0	0	0	
+397	زانیاری	hamsymmlr,hamfinger2345,hammiddlefinger,hamfingerstraightmod,hamextfingeru,hampalml,hamhead,hamlrat,hamclose,hamparbegin,hammover,hamsmallmod,hamslow,hamreplace,hamflathand,hamparend			0	0	0	
+398	هۆ	hamfinger2,hamthumboutmod,hampinky,hamextfingeru,hampalmu,hamtwisting			0	0	0	
+399	گواستنەوە	hamfinger23spread,hamextfingerdl,hampalml,hamchest,hammoveur,hamparbegin,hamreplace,hamextfingeruo,hamextfingeror,hamparend,hamshoulders,hamlrbeside			0	0	0	
+400	ئۆتۆمبیل	hamsymmlr,hamfingerstraightmod,hamlargemod,hamfist,hamextfingero,hampalml,hammoveul,hamarcl,hamrepeatfromstart			0	0	0	
+401	تەکسی	hamparbegin,hamfinger2,hamthumboutmod,hamplus,hamflathand,hamparend,hamextfingero,hamparbegin,hampalmd,hamplus,hampalmr,hamparend,haminterlock,hamfingerplay			0	0	0	
+402	کڕێن	hamfinger2,hamfingerbendmod,hamextfingerdr,hampalmd,hamstomach,hamlrbeside,hamstircw,hammoveul			0	0	0	
+403	عارەبانە	hamsymmlr,hamfist,hamextfingerdl,hampalmu,hammoveo			0	0	0	
+404	مووشەک	hamparbegin,hamfinger2,hamplus,hamflathand,hamparend,hamextfingeru,hamparbegin,hampalml,hamplus,hampalmr,hamparend,hamchest,hamclose,hammoveu			0	0	0	
+405	گەشتی بۆشایی	hamparbegin,hamfinger23spread,hamthumbacrossmod,hamindexfinger,hampinky,hamplus,hamflathand,hamparend,hamextfingeru,hamparbegin,hampalml,hamplus,hampalmr,hamparend,hamchest,hamclose,hammoveu			0	0	0	
+406	ڕێگا	hamflathand,hamextfingerdo,hampalmd,hamstirccw			0	0	0	
+407	شەقام	hamsymmlr,hamflathand,hamextfingerdo,hampalmd,hamstirccw			0	0	0	
+408	شۆستە	hamsymmlr,hamflathand,hamfingerstraightmod,hamextfingerl,hampalmd,hamswinging			0	0	0	
+409	فلکە	hamfinger2,hamextfingerd,hampalmd,hamchest,hamlrbeside,hamcircled,hamsmallmod,hamrepeatfromstart			0	0	0	
+410	قایشی خۆبەستان	hamfist,hamextfingerul,hampalml,hamlrat,hamshouldertop,hammovedr,hamstomach,hamlrat			0	0	0	
+411	چاندن	hamfinger23,hamthumbacrossmod,hamextfingerd,hampalmd,hamshoulders,hammovedr,hamarcl,hamrepeatcontinueseveral			0	0	0	
+412	بژارکردن	hamfist,hamextfingerdo,hampalml,hammoveu,hamsmallmod			0	0	0	
+413	لەوەڕاندن	hamfist,hamextfingerur,hampalmu,hamchest,hamlrbeside,hamtwisting			0	0	0	
+414	گوڵ	hamfist,hamextfingerl,hampalml,hamteeth			0	0	0	
+415	گیا	hamsymmlr,hamfinger2345,hamextfingeru,hampalmu,hammovel,hamsmallmod,hamfingerplay			0	0	0	
+416	دارستان	hamfinger2345,hamextfingeru,hampalmu,hamshouldertop,hamlrbeside,hammover,hamsmallmod			0	0	0	
+417	گاسن	hamsymmlr,hamflathand,hamextfingerol,hampalml,hamstomach,hamtouch,hammoveo			0	0	0	
+418	باخ	hamcee12,hamextfingeru,hampalml,hamtongue			0	0	0	
+419	ئیش	hamsymmlr,hamfist,hamthumbacrossmod,hamextfingerl,hampalmu,hamcirclel,hamsmallmod,hamrepeatfromstart			0	0	0	
+420	پاشا	hamsymmlr,hamcee12,hamextfingero,hampalml,hamheadtop,hammoved,hamsmallmod			0	0	0	
+421	سەرۆک	hamfinger2,hamthumboutmod,hamextfingeru,hampalmd,hamhead,hamlrat,hammoveu,hamsmallmod			0	0	0	
+422	پشوو	hamsymmlr,hamfist,hamthumboutmod,hamextfingerl,hampalml,hamshoulders,hamparbegin,hammoved,hamreplace,hamextfingero,hampalmd,hamparend			0	0	0	
+423	وەزیر	hamfinger2,hamfingerbendmod,hamextfingero,hampalmdl,hamhead,hamlrat,hamnodding,hamsmallmod			0	0	0	
+424	دادوەر	hamcee12,hamextfingerul,hampalml,hamlrat,hamshouldertop,hammovedr,hamsmallmod,hamarcr,hamstomach,hamlrat			0	0	0	
+425	ئەفسەر	hamcee12,hamextfingerul,hampalml,hamlrat,hamshouldertop			0	0	0	
+426	ئاسایش	hamfist,hamthumboutmod,hamextfingerui,hamextfingeril,hampalmdr,hamshoulders,hamlrat,hamtwisting			0	0	0	
+427	سەرباز	hamsymmlr,hamfinger2,hamextfingerul,hampalmd,hamforehead,hamtouch,hammoveu,hamsmallmod,hamfingermidjoint,hamtouch			0	0	0	
